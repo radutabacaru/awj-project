@@ -1,0 +1,10 @@
+.text-style {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border: none;
+    font: normal normal bold 14px/1 "Lucida Console", Monaco, monospace;
+    color: rgb(255, 255, 255);
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+  }
